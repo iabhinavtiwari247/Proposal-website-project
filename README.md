@@ -57,7 +57,7 @@ Steps to Run Locally
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/proposal-website.git
+git clone https://github.com/procoder2028/Proposal-website-project/tree/main/proposal-website.git
 cd proposal-website
 
 
