@@ -1,7 +1,8 @@
 # Proposal-website-project
 
-Website - https://gentle-syrniki-463f84.netlify.app/
+Website 1 - https://gentle-syrniki-463f84.netlify.app/
 
+Website 2 - https://inquisitive-kelpie-36bb43.netlify.app/
 📌 Project Overview
 
 The Proposal Website is a web-based platform designed to streamline the creation, submission, and review of proposals. This system enables users to draft, manage, and track proposals efficiently, making it ideal for business collaborations, academic research submissions, or project funding requests.
