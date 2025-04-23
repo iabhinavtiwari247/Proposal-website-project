@@ -1,8 +1,8 @@
 # Proposal-website-project
 
-Website 1 - 
+Pragati this is for you dear❤️
 
-Website 2 - 
+https://inquisitive-kelpie-36bb43.netlify.app/
 
 The Proposal Website is a web-based platform designed to streamline the creation, submission, and review of proposals. This system enables users to draft, manage, and track proposals efficiently, making it ideal for business collaborations, academic research submissions, or project funding requests.
 
