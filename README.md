@@ -1,6 +1,6 @@
 # Proposal-website-project
 
-Pragati this is for you dear❤️
+Pr.... this is for you dear❤️
 
 https://inquisitive-kelpie-36bb43.netlify.app/
 
